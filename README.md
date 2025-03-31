@@ -6,7 +6,7 @@
 
 ## Objectifs du projet 🎯
 
-Ce projet s'inscrit dans le cadre de l'UE SY15 de la formation Génie Industriel et vise à développer un simulateur d'événements discrets en langage C. L'objectif principal est d'analyser le fonctionnement d'un système complexe à l'aide d'algorithmes de simulation.
+Ce projet s'inscrit dans le cadre de la formation Génie Industriel et Data et vise à développer un simulateur d'événements discrets en langage C. L'objectif principal est d'analyser le fonctionnement d'un système complexe à l'aide d'algorithmes de simulation.
 
 Les compétences travaillées dans ce projet incluent :
 - Structuration d'algorithmes pour la simulation de lois de probabilité et leur manipulation en C.
