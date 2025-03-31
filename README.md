@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="Logniscient 🔎" width="400">
+  <img src="image.png" alt="Logniscient 🔎" width="500">
 </p>
 
 # Simulateur d'événements discrets en C
